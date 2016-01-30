@@ -1,8 +1,6 @@
 package mas15DEPQ;
 
 /**
- * CS21120 Assignment 1
- * 
  * Double ended priority queue
  * 
  * To implement a double-ended priority queue I used dual structure method. In
