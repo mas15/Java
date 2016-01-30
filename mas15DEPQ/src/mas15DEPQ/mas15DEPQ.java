@@ -22,16 +22,7 @@ package mas15DEPQ;
  * heap so we can sort heaps with different order. SetSecondHeapLocation is also
  * different for minHeap and maxHeap because minHeap must change variable called
  * maxHeapLocation and maxHeap has to change minHeapLocation.
- * 
- * 
- * My implementation passed all JUnit tests. I assess my work for maximum mark.
- * I believe that each part of criteria should be assessed for 100%. 
- * I think that everything is clear, comments are informative and well
- * formatted. All methods and classes are commented. Complexity analysis is
- * correct and each analysis is explained. The queue is able to hold at least
- * 1000 items. All methods operate in the most efficient way possible for
- * overall performance. Performance of isEmpty, getSize, inspectMost and
- * inspectLeast is O(1). Performance of add, getLeast, getMost is O(log n).
+ * \
  * 
  * @author Mateusz Stankiewicz
  *
